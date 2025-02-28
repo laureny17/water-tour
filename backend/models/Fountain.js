@@ -1,20 +1,22 @@
 import mongoose from "mongoose";
-import reviewSchema from "./Review.js";
 
 const fountainSchema = new mongoose.Schema({
-  building: {
-    // building number
-    type: Number,
+  buildingNumber: {
+    type: String, // e.g. could have W51
     required: true,
   },
   floor: {
-    type: Number,
+    type: String, // e.g. could have B for basement, M for mezzanine, etc.
+    required: true,
+  },
+  description: {
+    type: String,
     required: true,
   },
   reviews: [
     {
-      type: [Number],
-      required: true,
+      type: mongoose.Schema.Types.ObjectId,
+      ref: "Review",
       default: [],
     },
   ],

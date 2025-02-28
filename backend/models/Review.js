@@ -3,11 +3,13 @@ import mongoose from "mongoose";
 const reviewSchema = new mongoose.Schema(
   {
     userId: {
-      type: Number,
+      type: mongoose.Schema.Types.ObjectId,
+      ref: "User",
       required: true,
     },
     fountainId: {
-      type: Number,
+      type: mongoose.Schema.Types.ObjectId,
+      ref: "Fountain",
       required: true,
     },
     tasteRating: {
@@ -23,7 +25,7 @@ const reviewSchema = new mongoose.Schema(
       max: 5,
     },
     review: {
-      // optional review, defaults to empty string
+      // optional review
       type: String,
       required: false,
     },

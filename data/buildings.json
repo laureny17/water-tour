@@ -1,0 +1,1479 @@
+[
+  {
+    "buildingNumber": "1",
+    "buildingName": "PIERCE LABORATORY",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "2",
+    "buildingName": "THE SIMONS BUILDING",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "3",
+    "buildingName": "MACLAURIN BUILDINGS (3)",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "4",
+    "buildingName": "MACLAURIN BUILDINGS (4)",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "5",
+    "buildingName": "PRATT SCHOOL",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "6",
+    "buildingName": "EASTMAN LABORATORIES",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "6C",
+    "buildingName": "BUILDING 6C",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "7",
+    "buildingName": "WILLIAM BARTON ROGERS BUILDING",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "7A",
+    "buildingName": "ROTCH LIBRARY EXTENSION",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "8",
+    "buildingName": "BUILDING 8",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "9",
+    "buildingName": "SAMUEL TAK LEE BUILDING",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "10",
+    "buildingName": "MACLAURIN BUILDINGS (10)",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "11",
+    "buildingName": "HOMBERG BUILDING",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "12",
+    "buildingName": "SU BUILDING",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "13",
+    "buildingName": "BUSH BUILDING",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "14",
+    "buildingName": "HAYDEN MEMORIAL LIBRARY",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "16",
+    "buildingName": "DORRANCE BUILDING",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "17",
+    "buildingName": "WRIGHT BROTHERS WIND TUNNEL",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "18",
+    "buildingName": "DREYFUS BUILDING",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "24",
+    "buildingName": "BUILDING 24",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "26",
+    "buildingName": "COMPTON LABORATORIES",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "31",
+    "buildingName": "SLOAN LABORATORIES",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "32",
+    "buildingName": "STATA CENTER",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "32P",
+    "buildingName": "STATA CENTER GARAGE",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "33",
+    "buildingName": "GUGGENHEIM LABORATORY",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "34",
+    "buildingName": "EG&G EDUCATION CENTER",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "35",
+    "buildingName": "SLOAN LABORATORY",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "36",
+    "buildingName": "FAIRCHILD BUILDING (36)",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "37",
+    "buildingName": "MCNAIR BUILDING",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "38",
+    "buildingName": "FAIRCHILD BUILDING (38)",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "39",
+    "buildingName": "BROWN BUILDING",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "41",
+    "buildingName": "BUILDING 41",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "42",
+    "buildingName": "COGENERATION PLANT",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "42C",
+    "buildingName": "BUILDING 42C",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "43",
+    "buildingName": "POWER PLANT ANNEX",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "45",
+    "buildingName": "SCHWARZMAN COLLEGE OF COMPUTING",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "46",
+    "buildingName": "BCSC",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "48",
+    "buildingName": "PARSONS LABORATORY",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "50",
+    "buildingName": "WALKER MEMORIAL",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "51",
+    "buildingName": "WOOD SAILING PAVILION",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "54",
+    "buildingName": "GREEN BUILDING",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "55",
+    "buildingName": "MOGHADAM BUILDING",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "56",
+    "buildingName": "WHITAKER BUILDING",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "57",
+    "buildingName": "MIT ALUMNI POOL",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "62",
+    "buildingName": "ALUMNI HOUSES: MUNROE HAYDEN WOOD",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "64",
+    "buildingName": "EAST CAMPUS: WALCOTT BEMIS GOODALE",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "66",
+    "buildingName": "LANDAU BUILDING",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "68",
+    "buildingName": "KOCH BIOLOGY BUILDING",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "76",
+    "buildingName": "D H KOCH IN FICR",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "E1",
+    "buildingName": "GRAY HOUSE",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "E2",
+    "buildingName": "70 AMHERST",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "E14",
+    "buildingName": "BUILDING E14",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "E15",
+    "buildingName": "WIESNER BUILDING",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "E17",
+    "buildingName": "MUDD BUILDING",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "E18",
+    "buildingName": "FORD BUILDING (E18)",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "E19",
+    "buildingName": "FORD BUILDING (E19)",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "E23",
+    "buildingName": "MIT HEALTH",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "E25",
+    "buildingName": "WHITAKER COLLEGE",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "E28",
+    "buildingName": "314 MAIN STREET",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "E37",
+    "buildingName": "BUILDING E37",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "E37P",
+    "buildingName": "BUILDING E37P",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "E38",
+    "buildingName": "BUILDING E38",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "E40",
+    "buildingName": "MUCKLEY BUILDING",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "E51",
+    "buildingName": "TANG CENTER",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "E52",
+    "buildingName": "MORRIS & SOPHIE CHANG BUILDING",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "E53",
+    "buildingName": "HERMANN BUILDING",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "E53P",
+    "buildingName": "BUILDING E53P",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "E60",
+    "buildingName": "ARTHUR D LITTLE BUILDING",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "E62",
+    "buildingName": "BUILDING E62",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "E62P",
+    "buildingName": "BUILDING E62P",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "E66",
+    "buildingName": "1 MEMORIAL DRIVE",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "E70",
+    "buildingName": "BADGER BUILDING",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "E90",
+    "buildingName": "BUILDING E90",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "E94",
+    "buildingName": "BUILDING E94",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "N4",
+    "buildingName": "ALBANY GARAGE",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "N9",
+    "buildingName": "SUPERCONDUCTING TEST FACILITY",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "N10",
+    "buildingName": "HIGH VOLTAGE RESEARCH LAB",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "N16",
+    "buildingName": "COOLING TOWER & OIL RESERVE",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "N16A",
+    "buildingName": "BUILDING N16A",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "N16B",
+    "buildingName": "FIRE PUMP ROOM",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "N16C",
+    "buildingName": "BUILDING N16C",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "N47",
+    "buildingName": "BUILDING N47",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "N51",
+    "buildingName": "BUILDING N51",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "N52",
+    "buildingName": "BUILDING N52",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "N57",
+    "buildingName": "BUILDING N57",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "NE106",
+    "buildingName": "101 ROGERS STREET",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "NE18",
+    "buildingName": "255 MAIN STREET",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "NE36",
+    "buildingName": "BUILDING NE36",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "NE45",
+    "buildingName": "300 TECHNOLOGY SQUARE",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "NE47",
+    "buildingName": "500 TECHNOLOGY SQUARE",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "NE48",
+    "buildingName": "700 TECHNOLOGY SQUARE",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "NE49",
+    "buildingName": "600 TECHNOLOGY SQUARE",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "NE83",
+    "buildingName": "BUILDING 300",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "NW10",
+    "buildingName": "EDGERTON HOUSE",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "NW12",
+    "buildingName": "NUCLEAR REACTOR LAB",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "NW12A",
+    "buildingName": "BUILDING NW12A",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "NW13",
+    "buildingName": "BUILDING NW13",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "NW14",
+    "buildingName": "FRANCIS BITTER MAGNET LAB (NW14)",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "NW15",
+    "buildingName": "FRANCIS BITTER MAGNET LAB (NW15)",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "NW16",
+    "buildingName": "PLASMA SCIENCE & FUSION CENTER (NW16)",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "NW17",
+    "buildingName": "PLASMA SCIENCE & FUSION CENTER (NW17)",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "NW20",
+    "buildingName": "ALBANY ST GENERATOR SHELTER",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "NW21",
+    "buildingName": "PLASMA SCIENCE & FUSION CENTER (NW21)",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "NW22",
+    "buildingName": "PLASMA SCIENCE & FUSION CENTER (NW22)",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "NW23",
+    "buildingName": "BUILDING NW23",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "NW30",
+    "buildingName": "BUILDING NW30",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "NW32",
+    "buildingName": "BUILDING NW32",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "NW35",
+    "buildingName": "ASHDOWN HOUSE",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "NW36",
+    "buildingName": "BUILDING NW36",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "NW38",
+    "buildingName": "BUILDING NW38",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "NW38A",
+    "buildingName": "BUILDING NW38A",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "NW61",
+    "buildingName": "RANDOM HALL",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "NW86",
+    "buildingName": "70 PACIFIC STREET DORMITORY",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "NW86P",
+    "buildingName": "70 PACIFIC STREET DORMITORY GARAGE",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "NW98",
+    "buildingName": "BUILDING NW98",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "OC1",
+    "buildingName": "ENDICOTT HOUSE",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "OC1A",
+    "buildingName": "EDWARD PENNELL BROOKS CENTER",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "OC6",
+    "buildingName": "645 SUMMER STREET",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "OC100",
+    "buildingName": "BUILDING OC100",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "OC101",
+    "buildingName": "BUILDING OC101",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "OC11",
+    "buildingName": "1 SUMMER STREET",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "OC15",
+    "buildingName": "22 BLAKE ST",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "OC19A",
+    "buildingName": "BATES LINAC: ADMINISTRATION BLDG",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "OC19B",
+    "buildingName": "BATES LINAC: RESEARCH BLDG",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "OC19C",
+    "buildingName": "BATES LINAC: NORTH EXPERIMENTAL HALL",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "OC19D",
+    "buildingName": "BATES LINAC: WAREHOUSE #2",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "OC19E",
+    "buildingName": "BATES LINAC: RING SERVICE BUILDING",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "OC19F",
+    "buildingName": "BATES LINAC: SOUTH EXPERIMENTAL HALL",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "OC19G",
+    "buildingName": "BATES LINAC: NORTH HALL EXHAUST",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "OC19H",
+    "buildingName": "BATES LINAC: ENGINEERING",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "OC19J",
+    "buildingName": "BATES LINAC: GAS BOTTLE/TANK STORAGE",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "OC19K",
+    "buildingName": "BATES LINAC: VAULT & TUNNEL GALLERY",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "OC19L",
+    "buildingName": "BATES LINAC: WAREHOUSE #1",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "OC19M",
+    "buildingName": "BATES LINAC: BARN",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "OC19N",
+    "buildingName": "BATES LINAC: WAREHOUSE #3",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "OC19Q",
+    "buildingName": "BATES LINAC: WATER TOWER",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "OC21",
+    "buildingName": "WALLACE ASTROPHYSICAL OBSERVATORY",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "OC21A",
+    "buildingName": "WALLACE ASTROPHYSICAL OBSERVATORY",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "OC21B",
+    "buildingName": "WALLACE ASTROPHYSICAL OBSERVATORY",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "OC21C",
+    "buildingName": "WALLACE ASTROPHYSICAL OBSERVATORY",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "OC21D",
+    "buildingName": "WALLACE ASTROPHYSICAL OBSERVATORY",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "OC21E",
+    "buildingName": "WALLACE ASTROPHYSICAL OBSERVATORY",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "OC21F",
+    "buildingName": "WALLACE ASTROPHYSICAL OBSERVATORY",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "OC22",
+    "buildingName": "WESTFORD OPTICS FACILITY (HAYSTACK)",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "OC23",
+    "buildingName": "WALLACE GEOPHYSICAL OBSERVATORY",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "OC24",
+    "buildingName": "HAYSTACK ANTENNA FACILITY",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "OC25",
+    "buildingName": "HAYSTACK OBSERVATORY",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "OC26",
+    "buildingName": "HAYSTACK ATMOSPHERIC SCIENCES BUILDING",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "OC31",
+    "buildingName": "KATAHDIN HILL 1",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "OC31A",
+    "buildingName": "KATAHDIN HILL 1A",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "OC32",
+    "buildingName": "LEXINGTON FIELD HOUSE",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "OC32A",
+    "buildingName": "BALLOON HOUSE A",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "OC32B",
+    "buildingName": "BALLOON HOUSE B",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "OC33",
+    "buildingName": "ANNEX 3",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "OC35",
+    "buildingName": "ANNEX V",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "OC36",
+    "buildingName": "ANNEX 6",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "OC36A",
+    "buildingName": "ANNEX 6 TRAILER",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "OC40",
+    "buildingName": "MASS GREEN HIGH PERFORMANCE COMPUTING CENTER",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "OC46",
+    "buildingName": "353 MIDDLESEX AVE",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W1",
+    "buildingName": "FARIBORZ MASEEH HALL",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W2",
+    "buildingName": "BUILDING W2",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W4",
+    "buildingName": "MCCORMICK HALL",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W5",
+    "buildingName": "GREEN HALL",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W7",
+    "buildingName": "BAKER HOUSE",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W8",
+    "buildingName": "RESCH BOATHOUSE",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W11",
+    "buildingName": "RELIGIOUS ACTIVITIES CENTER",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W15",
+    "buildingName": "MIT CHAPEL",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W16",
+    "buildingName": "KRESGE AUDITORIUM",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W18",
+    "buildingName": "LINDE MUSIC BUILDING",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W18P",
+    "buildingName": "BUILDING W18 GARAGE",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W20",
+    "buildingName": "STRATTON STUDENT CENTER",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W31",
+    "buildingName": "DU PONT ATHLETIC GYMNASIUM",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W32",
+    "buildingName": "DU PONT ATHLETIC CENTER",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W33",
+    "buildingName": "ROCKWELL CAGE",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W34",
+    "buildingName": "JOHNSON ATHLETICS CENTER",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W35",
+    "buildingName": "SPORTS & FITNESS CENTER",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W36",
+    "buildingName": "BUILDING W36",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W41",
+    "buildingName": "BUILDING W41",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W46",
+    "buildingName": "NEW VASSAR RESIDENCE HALL",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W51",
+    "buildingName": "BURTON-CONNER HOUSE",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W51C",
+    "buildingName": "405 MEMORIAL DRIVE",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W51D",
+    "buildingName": "BUILDING W51D",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W53",
+    "buildingName": "CARR INDOOR TENNIS FACILITY",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W53A",
+    "buildingName": "CARR INDOOR TENNIS FACILITY (OFFICE)",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W53B",
+    "buildingName": "DUPONT TENNIS COURTS (OFFICE)",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W53C",
+    "buildingName": "BUILDING W53C",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W53D",
+    "buildingName": "CARR INDOOR TENNIS FACILITY(SVC)",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W53E",
+    "buildingName": "BUILDING W53E",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W53F",
+    "buildingName": "BUILDING W53F",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W53G",
+    "buildingName": "BUILDING W53G",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W55",
+    "buildingName": "BUILDING W55",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W59",
+    "buildingName": "HEINZ BUILDING",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W61",
+    "buildingName": "MACGREGOR HOUSE",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W64",
+    "buildingName": "THE DAVID H KOCH CHILDCARE CENTER",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W70",
+    "buildingName": "NEW HOUSE",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W71",
+    "buildingName": "NEXT HOUSE",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W79",
+    "buildingName": "SIMMONS HALL",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W83",
+    "buildingName": "BUILDING W83",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W84",
+    "buildingName": "TANG HALL",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W85",
+    "buildingName": "WESTGATE",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W85ABC",
+    "buildingName": "WESTGATE (ABC)",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W85DE",
+    "buildingName": "WESTGATE (DE)",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W85FG",
+    "buildingName": "WESTGATE (FG)",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W85HJK",
+    "buildingName": "WESTGATE (HJK)",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W87",
+    "buildingName": "GRADUATE JUNCTION (W87)",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W88",
+    "buildingName": "GRADUATE JUNCTION (W88)",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W91",
+    "buildingName": "BUILDING W91",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W92",
+    "buildingName": "BUILDING W92",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W97",
+    "buildingName": "BUILDING W97",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "W98",
+    "buildingName": "BUILDING W98",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  },
+  {
+    "buildingNumber": "WW15",
+    "buildingName": "BUILDING WW15",
+    "neighbors": [],
+    "fountainsByFloor": {},
+    "__v": 0
+  }
+]

@@ -1,5 +1,4 @@
 import mongoose from "mongoose";
-import reviewSchema from "./Review.js";
 
 const userSchema = new mongoose.Schema({
   username: {
@@ -21,10 +20,15 @@ const userSchema = new mongoose.Schema({
     required: true,
     default: "https://placeholder.com/default-pfp.png", // put a placeholder later
   },
-  reviews: {
-    type: [Number],
-    required: true,
-    default: [],
+  reviews: [
+    {
+      type: mongoose.Schema.Types.ObjectId,
+      ref: "Review",
+    },
+  ],
+  isAdmin: {
+    type: Boolean,
+    default: false,
   },
 });
 
