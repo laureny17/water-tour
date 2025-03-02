@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/laureny17/water-tour#readme",
   "dependencies": {
+    "@angular/animations": "^17.3.12",
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
